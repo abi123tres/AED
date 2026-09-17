@@ -1,0 +1,11 @@
+Cómo traducir tu código
+Para usarlas, debes agregar la librería #include <cstdio> al inicio de tu archivo. La sintaxis cambia un poco porque scanf necesita saber qué tipo de dato va a leer (usamos %d para enteros) y requiere el símbolo & para saber dónde guardarlo en la memoria.
+
+En lugar de: cin >> x;
+Usas: scanf("%d", &x);
+
+En lugar de: cout << x << " ";
+Usas: printf("%d ", x);
+
+En lugar de: cout << "\n";
+Usas: printf("\n");

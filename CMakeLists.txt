@@ -8,4 +8,9 @@ add_executable(AED main.cpp
         Basico.cpp
         stringHash.cpp
         "Elementos distintos.cpp"
-        "Multiset Iguales.cpp")
+        "Multiset Iguales.cpp"
+        "Sumar dos.cpp"
+        "Primero no repetido.cpp"
+        "Intersección de arreglos.cpp"
+        "Simulador de diccionario.cpp"
+        "Agrupando anagramas.cpp")
