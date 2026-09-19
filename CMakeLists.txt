@@ -13,4 +13,7 @@ add_executable(AED main.cpp
         "Primero no repetido.cpp"
         "Intersección de arreglos.cpp"
         "Simulador de diccionario.cpp"
-        "Agrupando anagramas.cpp")
+        "Agrupando anagramas.cpp"
+        Boyer-Moore.cpp
+        "suma xor.cpp"
+        "suma igualada.cpp")
