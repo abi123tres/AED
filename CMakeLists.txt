@@ -16,4 +16,14 @@ add_executable(AED main.cpp
         "Agrupando anagramas.cpp"
         Boyer-Moore.cpp
         "suma xor.cpp"
-        "suma igualada.cpp")
+        "suma igualada.cpp"
+        "es un avl.cpp"
+        "alturas en un avl.cpp"
+        "rotaciones a mano.cpp"
+        AVL.cpp
+        basico_avl.cpp
+        "construir un avl.cpp"
+        "contar rotaciones.cpp"
+        ../../Downloads/rotaciones_a_mano.cpp
+        "vecino mas cercano.cpp"
+        "contar en rango.cpp")
