@@ -26,4 +26,9 @@ add_executable(AED main.cpp
         "contar rotaciones.cpp"
         ../../Downloads/rotaciones_a_mano.cpp
         "vecino mas cercano.cpp"
-        "contar en rango.cpp")
+        "contar en rango.cpp"
+        "reservas de sala.cpp"
+        "la moda en vivo.cpp"
+        "ranking de puntajes.cpp"
+        "kesimo menor.cpp"
+        "sumar en rango.cpp")
