@@ -31,4 +31,25 @@ add_executable(AED main.cpp
         "la moda en vivo.cpp"
         "ranking de puntajes.cpp"
         "kesimo menor.cpp"
-        "sumar en rango.cpp")
+        "sumar en rango.cpp"
+        "codigo sin unos consecutivos.cpp"
+        "cola de doble prioridad.cpp"
+        "basico BFS.cpp"
+        "basico grilla.cpp"
+        "basico multisource(propagacion).cpp"
+        "perimetro del terreno.cpp"
+        "puentes de k.cpp"
+        "seguidores mutuos.cpp"
+        "agenda de contactos.cpp"
+        "cables entre servidores.cpp"
+        "amigos en comun.cpp"
+        "las jarras.cpp"
+        "trios de amigos.cpp"
+        "escalera de palabras.cpp"
+        bfslaberinto.cpp
+        bfshospitales.cpp
+        "equipos rivales.cpp"
+        "robot que gira.cpp"
+        "rompiendo paredes.cpp"
+        "luces apagadas.cpp"
+        "rompecabezas deslizante.cpp")
