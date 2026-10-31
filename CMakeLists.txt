@@ -52,4 +52,9 @@ add_executable(AED main.cpp
         "robot que gira.cpp"
         "rompiendo paredes.cpp"
         "luces apagadas.cpp"
-        "rompecabezas deslizante.cpp")
+        "rompecabezas deslizante.cpp"
+        "reconstruccion de caminos.cpp"
+        "ordenamiento topologico.cpp"
+        "diametro de un arbol.cpp"
+        "es una fila.cpp"
+        "piedras en el rio.cpp")
